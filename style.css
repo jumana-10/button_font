@@ -8,7 +8,7 @@
 }
 
 body {
-    /* background-color: rgb(234, 234, 234); */
+    background-color: rgb(234, 234, 234);
     font-family: 'Barlow', sans-serif;
 }
 
@@ -17,23 +17,17 @@ body {
 .form {
     background-color: brown;
     width: 20%;
-    margin: 30px;
+    margin: 50px;
+}
+
+.form h3 {
+    color: white;
+    padding: 20px;
+    font-size: 20px;
 }
 
 #text {
     margin: 15px;
-    padding: 5px 20px;
+    padding: 5px 10px;
     border: 1px solid black;
 }
-
-/* .label {
-    margin: 15px;
-    color: white;
-} */
-
-/* .label input {
-    width: 100%;
-    margin-top: 10px;
-    padding: 5px 20px;
-    border: 1px solid black;
-} */
